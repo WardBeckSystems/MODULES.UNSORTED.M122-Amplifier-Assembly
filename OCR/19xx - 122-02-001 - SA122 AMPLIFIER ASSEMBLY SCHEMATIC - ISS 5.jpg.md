@@ -32,7 +32,7 @@ Wiki page: [M122](../../../../PAGES/M122.md)
 - **Title block:** (194, 54)–(322, 79) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 32 connected wire groups from 241 runs; labelled ends: 484 mm → R34, T42102, 47/63, CRJ; 403 mm → R29, 6K8, R3J, ISk; 323 mm → R24, Siook, 22/35, Pn9569; 304 mm → 828, 100/63, R24, Siook; 242 mm → R37, 27 1/2w, R39, R3O
 
-Every curve, box, word and wire group: [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (traced).json](../SCHEMATICS/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205%20(traced).json) (the CAD file: `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (traced).json](../SCHEMATICS/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205%20%28traced%29.json) (the CAD file: `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (traced).dxf`).
 
 ## Full text
 

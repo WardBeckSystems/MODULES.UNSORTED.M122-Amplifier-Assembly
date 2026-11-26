@@ -35,7 +35,7 @@ SA122 amplifier assembly schematic.
 - **Title block:** (258, 30)–(340, 44) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 50 connected wire groups from 430 runs; labelled ends: 273 mm → 74zioz; 246 mm → 7L0J7; 132 mm → [70/1; 129 mm → 348819; 123 mm → 21/0]
 
-Every curve, box, word and wire group: [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2) (traced).json](../SCHEMATICS/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205%20(2)%20(traced).json) (the CAD file: `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2) (traced).json](../SCHEMATICS/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2) (traced).dxf`).
 
 ## Full text
 
