@@ -1,23 +1,18 @@
-# M122 Amplifier Assembly · Unsorted
+# M122 Amplifier Assembly · Amplifiers
 
 Ward-Beck Systems M122, 1977|10. Wiki page: [M122 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M122.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
-
-Not on Google Drive yet: `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2).jpg`, `19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5.jpg`
 
 ## Manuals and documents
 
@@ -34,7 +29,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2).kicad_sch](KICAD/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205%20(2).kicad_sch)
 - [19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5.kicad_sch](KICAD/19xx%20-%20122-02-001%20-%20SA122%20AMPLIFIER%20ASSEMBLY%20SCHEMATIC%20-%20ISS%205.kicad_sch)
 - [M122.kicad_sym](KICAD/M122.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
