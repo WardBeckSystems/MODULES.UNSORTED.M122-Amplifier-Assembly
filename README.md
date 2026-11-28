@@ -1,6 +1,6 @@
 # M122 Amplifier Assembly · Amplifiers
 
-Ward-Beck Systems M122, 1977|10. Wiki page: [M122 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M122.html)
+Ward-Beck Systems M122, 1977|10. Wiki page: [M122 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M122-Amplifier-Assembly/)
 
 | Folder | What is in it | Files |
 |---|---|---|

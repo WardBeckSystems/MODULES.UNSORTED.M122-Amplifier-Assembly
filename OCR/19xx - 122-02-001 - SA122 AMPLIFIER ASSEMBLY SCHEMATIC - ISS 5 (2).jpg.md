@@ -1,5 +1,5 @@
 # 19xx - 122-02-001 - SA122 AMPLIFIER ASSEMBLY SCHEMATIC - ISS 5 (2).jpg
-Wiki page: [M122](../../../../PAGES/M122.md)
+Wiki page: [M122](../)
 
 
 - **Year:** unknown (title block (read by eye))
