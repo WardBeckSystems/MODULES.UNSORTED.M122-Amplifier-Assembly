@@ -107,7 +107,7 @@ DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUIPMENT
 
 ```json
 {
- "file": "Modules/UNSORTED/M122/MANUALS/1977 - M122 - PRICE LIST - price list.jpg",
+ "file": "Modules/AMPLIFIERS/M122/MANUALS/1977 - M122 - PRICE LIST - price list.jpg",
  "sha256": "e8fa7d60c8b1841acce0d578d9b535e957ac220d0cf85bfdc954f4b6c64ce6a8",
  "kind": "doc",
  "models": [
